@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=TarLauncher
+Comment=Gear Lever für Tar Archive
+Exec=/home/marten/Dokumente/linux/gearleverfortar/main.py
+Icon=tarlauncher
+Type=Application
+Categories=Utility;System;
+Terminal=false
